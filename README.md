@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Inman! </h1> <br>
-<ul>I’m currently studying Data/Computer Science at UCLA</ul>
+<ul>I’m currently studying Data/Computer Science at UCLA.</ul>
 
 <!---
 inmancosta/inmancosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Inman! </h2> <br>
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Inman! </h2> 
 <ul>I’m currently studying Data/Computer Science at UCLA.</ul>
 
 <h2><img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px"> Connect with me!</h2>

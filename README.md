@@ -3,7 +3,8 @@
 
 <h2><img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px"> Connect with me:</h2>
 <a href="https://www.linkedin.com/in/inman-costa-436410256" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="inman-costa" height="30" width="40" /></a>
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inmancosta&theme=tokyonight)
   
 <!---
 inmancosta/inmancosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

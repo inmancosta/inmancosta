@@ -1,4 +1,4 @@
-<h2>Hi, I’m Inman! </h2> 
+<h2>   <img src= "https://media.giphy.com/media/l1J9FPSDICtf7lHtC/giphy.gif" width = "25px> Hi, I’m Inman! </h2> 
 <ul>I'm currently studying Computational Mathematics at UCLA. I’m interested in applying my skills to Full-Stack Development, Data Science, and Analytics, as well as Product Management.</ul>
 
 <h2><img src="https://media.giphy.com/media/cjzVpCjVvXgxYGzRGS/giphy.gif" width="25px"> Connect with me:</h2>
